@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RpJPyxPD7HGHtwyg9z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="100"/>
 </div>
 
 ## 👋 Hi! I am Xi Wang.
