@@ -8,14 +8,26 @@
 
 
 #### :woman_technologist: About Me :
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-7b00bb25a/)
+	
+          ======================================🙃=🙃=🙃======================================
+          - 🔭 I’m currently working on:           A new python backend framework!
+          ====================================================================================
+          - 🌱 I’m currently learning:             Teraform / AWS / ML APIs!
+          ====================================================================================
+          - 👯 I’m looking to collaborate on:      cool open-source projects
+          ====================================================================================
+          - 🤔 I’m looking for help with:          any of my projects marked "help wanted"
+          ====================================================================================
+          - 💬 Ask me about:                       Pretty much anything!
+          ====================================================================================
+          - 📫 How to reach me:                    - vivian.xi.wang@gmail.com
+                                                   - https://www.linkedin.com/in/xi-vivian-wang-7b00bb25a/
+          ====================================================================================
+          - 😄 Pronouns:                           she/her are both fine with me!
+          ====================================================================================
+          - ⚡ Fun fact:                            I love big fat animals!
+          ======================================🙃=🙃=🙃======================================
+	
 
 
 ### :hammer_and_wrench: Languages and Tools :
