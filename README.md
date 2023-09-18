@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/26059/screenshots/4114620/media/6f2e9db2bc6b4798a911daeb51de05c9.gif" width="300" height='200'/>
+  <img src="https://c.animaapp.com/Uxu6pyRS/img/frame-1.svg" width="800" height='500'/>
 </div>
 
 ## 👋 Hi! I am Xi Wang.
@@ -10,7 +10,7 @@
 #### :woman_technologist: About Me :
 	
           ======================================🙃=🙃=🙃======================================
-          - 🔭 I’m currently working on:           A new python backend framework!
+          - 🔭 I’m currently working on:           A severless project!
           ====================================================================================
           - 🌱 I’m currently learning:             Prisma / Teraform / AWS !
           ====================================================================================
