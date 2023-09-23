@@ -1,7 +1,8 @@
 
 
 <div id="header" align="center">
-  <img src="https://c.animaapp.com/Uxu6pyRS/img/frame-1.svg" width="800" height='500'/>
+<!-- 	<img src ="https://c.animaapp.com/wZjHIFFy/img/image-1.png" width ="600" height= "400" /> -->
+  <img src="https://c.animaapp.com/Uxu6pyRS/img/frame-1.svg" width="800" height='400'/>
 </div>
 
 ## 👋 Hi! I am Xi Wang.
