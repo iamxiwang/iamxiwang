@@ -5,15 +5,15 @@
   <img src="https://c.animaapp.com/Uxu6pyRS/img/frame-1.svg" width="700" height='300'/>
 </div>
 
-## 👋 Hi! I am Xi Wang.
+## 👋 Hi! I am Viv.
 
 
 #### :woman_technologist: About Me :
 	
           ======================================🙃=🙃=🙃======================================
-          - 🔭 I’m currently working on:           Redis!
+          - 🔭 I’m currently working on:            Open-Source projects
           ====================================================================================
-          - 🌱 I’m currently learning:             Prisma / Teraform / AWS !
+          - 🌱 I’m currently learning:             Infrastructure as Code (IaC) !
           ====================================================================================
           - 👯 I’m looking to collaborate on:      cool open-source projects
           ====================================================================================
